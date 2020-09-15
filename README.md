@@ -104,3 +104,4 @@ Learning to use Github for your Portfolio Website Assignment
 |72|Yuxue Sang | 3 | yuxue116 |https://github.com/yuxue116/mywebsite  |<https://yuxuesang.netlify.app> |2020-09-15 |
 |73|Jieyi Cai | 2 | acaciacai |https://github.com/acaciacai/Acacia_Website  |<https://acacia-jieyicai-portfolio.netlify.app> |2020-09-15 |
 |74|Johanna Jeffery |13| jjeffery98 | https://github.com/jjeffery98/my_website.git |<https://johanna-jeffery-portfolio.netlify.app/> | 2020-09-15|
+|75|Rick van der Linden | 8 | RickLinden | <https://github.com/RickLinden/my_website/blob/master/my_website> |<https://rickvdlinden.netlify.app/> | 2020-09-15|
